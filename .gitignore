@@ -163,3 +163,4 @@ scrapyenv/
 *.json
 *.csv
 .db
+.sqlite3
