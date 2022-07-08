@@ -162,3 +162,4 @@ scrapyenv/
 *.html
 *.json
 *.csv
+.db
